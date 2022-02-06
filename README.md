@@ -20,7 +20,7 @@ mycube = pc.Cube()
 # Do something at the cube.
 mycube("R U R' U'")
 
-print(mycube)
+print(repr(mycube))
 
 ```
 ![alt tag](http://i.imgur.com/OI4kbn7.png)
